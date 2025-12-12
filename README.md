@@ -29,7 +29,7 @@ This project was developed as part of an iOS Development course.
 ---
 
 ## 🚀 Setup Instructions
-1. Clone this repository:
+1. Clone this repository: https://github.com/daffodil97/IndividualApp
 
 2. Open the project in **Xcode**
 3. Select an iOS Simulator
@@ -44,8 +44,8 @@ Screenshots of the app can be found in the **Screenshots** folder.
 
 ## 🎥 Demo Video
 👉 Demo video link:  
-PASTE YOUR VIDEO LINK HERE  
-(example: YouTube, Google Drive, or video file in repo)
+[PASTE YOUR VIDEO LINK HERE  
+https://drive.google.com/file/d/1qg35iWj-cLiAHKRHQRIsIjerEqyTibvI/view?usp=share_link
 
 ---
 
